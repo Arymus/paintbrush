@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+@font-face {
+  font-family: "paintbrush";
+  src: url("assets/paintbrush-font.otf") format("opentype");
+}
+
+@theme {
+  --font-paintbrush: "paintbrush";
+}
